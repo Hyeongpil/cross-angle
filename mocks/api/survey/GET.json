@@ -1,0 +1,23 @@
+{
+  "header": {
+    "code": 200,
+    "resultMessage": "",
+    "isSuccessful": true
+  },
+  "data": {
+    "type": "OX",
+    "surveyItem": {
+      "question": "아발란체는 레이어1 솔루션이다.",
+      "oxItems": [
+        {
+          "value": "O",
+          "label": "O"
+        },
+        {
+          "value": "X",
+          "label": "X"
+        }
+      ]
+    }
+  }
+}

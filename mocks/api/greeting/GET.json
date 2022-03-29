@@ -1,0 +1,10 @@
+{
+  "header": {
+    "code": 200,
+    "resultMessage": "",
+    "isSuccessful": true
+  },
+  "data": {
+    "message": "지원자 최형필입니다."
+  }
+}

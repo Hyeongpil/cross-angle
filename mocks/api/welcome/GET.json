@@ -1,0 +1,10 @@
+{
+  "header": {
+    "code": 200,
+    "resultMessage": "",
+    "isSuccessful": true
+  },
+  "data": {
+    "message": "쟁글에 오신걸 환영합니다."
+  }
+}

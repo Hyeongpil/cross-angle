@@ -1,0 +1,13 @@
+{
+  "header": {
+    "code": 200,
+    "resultMessage": "",
+    "isSuccessful": true
+  },
+  "data": {
+    "type": "TEXT",
+    "surveyItem": {
+      "question": "비트코인 창시자의 이름은?"
+    }
+  }
+}
